@@ -1,5 +1,6 @@
 <application>
   <component name="UISettings">
+    <option name="MAX_LOOKUP_LIST_HEIGHT" value="5" />
     <option name="MERGE_EQUAL_STACKTRACES" value="false" />
   </component>
 </application>
