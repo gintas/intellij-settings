@@ -1,0 +1,99 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="1.8" />
+      <type value="JavaSDK" />
+      <version value="java version &quot;1.8.0_25&quot;" />
+      <homePath value="/usr/lib/jvm/java-1.8.0" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/jdkAnnotations.jar!/" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="jar:///usr/lib/jvm/java-1.8.0/jre/lib/charsets.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-1.8.0/jre/lib/ext/cldrdata.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-1.8.0/jre/lib/ext/dnsns.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-1.8.0/jre/lib/ext/localedata.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-1.8.0/jre/lib/ext/nashorn.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-1.8.0/jre/lib/ext/sunec.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-1.8.0/jre/lib/ext/sunjce_provider.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-1.8.0/jre/lib/ext/sunpkcs11.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-1.8.0/jre/lib/ext/zipfs.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-1.8.0/jre/lib/jce.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-1.8.0/jre/lib/jsse.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-1.8.0/jre/lib/management-agent.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-1.8.0/jre/lib/resources.jar!/" />
+            <root type="simple" url="jar:///usr/lib/jvm/java-1.8.0/jre/lib/rt.jar!/" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Go 1.6" />
+      <type value="Go SDK" />
+      <version value="1.6" />
+      <homePath value="$USER_HOME$/opt/go-1.6" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/opt/go-1.6/src" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/opt/go-1.6/src" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.8 (/usr/bin/python2.7)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.8" />
+      <homePath value="/usr/bin/python2.7" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file:///usr/lib64/python2.7" />
+            <root type="simple" url="file:///usr/lib64/python2.7/plat-linux2" />
+            <root type="simple" url="file:///usr/lib64/python2.7/lib-tk" />
+            <root type="simple" url="file:///usr/lib64/python2.7/lib-dynload" />
+            <root type="simple" url="file://$USER_HOME$/.local/lib/python2.7/site-packages" />
+            <root type="simple" url="file:///usr/lib64/python2.7/site-packages" />
+            <root type="simple" url="file:///usr/lib64/python2.7/site-packages/gtk-2.0" />
+            <root type="simple" url="file:///usr/lib/python2.7/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/.IdeaIC2016.1/system/python_stubs/-1247972723" />
+            <root type="simple" url="file:///data/home/gmiliau/.IdeaIC2016.1/config/plugins/python/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+  </component>
+</application>

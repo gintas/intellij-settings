@@ -1,0 +1,10 @@
+<application>
+  <component name="PathMacrosImpl">
+    <macro name="MAVEN_REPOSITORY" value="/data/home/gmiliau/.m2/repository" />
+    <macro name="KOTLIN_BUNDLED" value="/data/home/gmiliau/opt/idea-IC-145.258.11/plugins/Kotlin/kotlinc" />
+    <ignoredMacro name="MESSAGE" />
+    <ignoredMacro name="FILE_PATH" />
+    <ignoredMacro name="LINE" />
+    <ignoredMacro name="COLUMN" />
+  </component>
+</application>
